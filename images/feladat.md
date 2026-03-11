@@ -51,9 +51,4 @@ A vízimadarak vízhez kötött életmódot folytató madarak. Sok fajuk úszóh
 Wikipedia
 https://hu.wikipedia.org/wiki/R%C3%A9cef%C3%A9l%C3%A9k
 
-birds.zip:
-images/
--
-bootstrap.min.css:
-
 

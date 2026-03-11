@@ -167,7 +167,7 @@
       }
     }
 
-    li{
+    nav li{
         padding: 10px;
         margin: 10px;
     }
@@ -180,6 +180,11 @@
     a:hover{
         color: #ddd;
     }
+
+    .blue-marker li::marker {
+           color: blue;
+    }
+    
     
   </style>
 </head>
@@ -213,7 +218,7 @@
         <p>
           A madarak osztályán belül több nagyobb csoport különíthető el, például:
         </p>
-        <ul>
+        <ul class="blue-marker">
           <li>futómadarak (Struthioniformes és rokon rendek)</li>
           <li>ragadozó madarak (Accipitriformes, Falconiformes)</li>
           <li>énekesmadarak (Passeriformes)</li>
